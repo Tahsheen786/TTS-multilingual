@@ -1,0 +1,13 @@
+JD 1,Phone No.,E-Mail ID,Candidate's Name,Skills
+0.041342342322011304,['(123) 456-7890'],['hello@reallygreatsite.com'],OLIVIA,"{'C', 'English', 'R'}"
+0.041342342322011304,['(123) 456-7890'],['hello@reallygreatsite.com'],OLIVIA,"{'C', 'English', 'R'}"
+0.04133900106441644,['123-456-7890'],['hello@reallygreatsite.com'],STROUPE,"{'C', 'English', 'R'}"
+0.018224951813686822,['7869848813'],['tahsheen.intern@gmail.com'],TAHSHEEN,"{'Android', 'English'}"
+0.01770346395292851,['+123-456-7890'],['hello@reallygreatsite.com'],CLAUDIA,{'English'}
+0.013693112560464306,['+91 88785 00999'],['td8002@srmist.edu.in'],TANISHA,"{'C++', 'English', 'Java', 'C', 'Python', 'mathematics'}"
+0.013212419745567017,['+123-456-7890'],['hello@reallygreatsite.com'],RICHARD,{'English'}
+0.013164242716169474,['+123-456-7890'],"['hello@reallygreatsite.com', 'hello@reallygreatsite.com', 'hello@reallygreatsite.com']",JULIANA,"{'c', 'English', 'r'}"
+0.01236844457772066,"['123-456-7890', '+123-456-7890']","['hello@reallygreatsite.com', 'hello@reallygreatsite.com', 'hello@reallygreatsite.com']",OLIVIA,"{'English', 'Copywriting'}"
+0.011213719048647637,['+123-456-7890'],['hello@reallygreatsite.com'],KORINA,"{'English', 'sem'}"
+0.010525352455842317,['+123-456-7890'],"['hello@reallygreatsite.com', 'hello@reallygreatsite.com', 'hello@reallygreatsite.com']",LORNA,"{'c', 'English', 'Copywriting', 'r'}"
+0.007897291253122366,['123-456-7890'],"['hello@reallygreatsite.com', 'hello@reallygreatsite.com', 'hello@reallygreatsite.com']",Mariana,"{'English', 'r'}"
